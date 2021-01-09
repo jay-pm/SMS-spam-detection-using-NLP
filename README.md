@@ -1,4 +1,4 @@
-# SMS-spam-detection-using-NLP
+# SMS-spam-detection-using-NLTK
 SMS spam detection using NLP
 
 This model is created using NLP for predicting spam/ham SMS.
